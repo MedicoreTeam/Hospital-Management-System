@@ -96,4 +96,3 @@ This project was built as a collaborative university group solution. All team me
 - **SLIIT Faculty of Computing** for academic guidance and supervision  
 - Module lecturers and lab instructors for continuous support  
 - Open-source libraries and community resources that accelerated development  
-this development branch include ward management
